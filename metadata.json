@@ -1,0 +1,5 @@
+{
+  "name": "CalcVis - Interaktiver Funktions-Plotter",
+  "description": "Eine vollständig interaktive Lernumgebung für Analysis. Manipulieren Sie Funktion, Ableitung oder Stammfunktion und nutzen Sie Presets für schnelles Lernen. KI-gestützte Erklärungen inklusive.",
+  "requestFramePermissions": []
+}
